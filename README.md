@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
