@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1563-stone-game-v) |
