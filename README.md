@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1872-stone-game-viii) |
