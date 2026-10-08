@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1140-stone-game-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1510-stone-game-iv) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
