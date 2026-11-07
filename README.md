@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1563-stone-game-v) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/SudhirHajare/Practice-Leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
